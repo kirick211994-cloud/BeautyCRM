@@ -1,0 +1,12 @@
+# Виртуальное окружение
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# База данных
+database.db
+
+# Настройки PyCharm
+.idea/
